@@ -93,4 +93,4 @@ Toolkit de suporte técnico e segurança defensiva para analistas de TI. Central
 
 ---
 
-⭐ *Do suporte ao SOC — automatizando o caminho, um script por vez.*
+⭐ *Do suporte a Cyber — automatizando o caminho, um script por vez.*
